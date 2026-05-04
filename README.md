@@ -50,8 +50,8 @@
 
 ```php
 $DIARY_FILES = [
-    "diaries/2026-04-28.md",
-    "diaries/2026-04-29.md",
+    "diaries/1.md",
+    "diaries/2.md",
 ];
 ```
 
