@@ -26,6 +26,7 @@
 /
 ├── index.php
 ├── public/
+│   ├── style-0.css
 │   └── style.css
 └── diaries/
     ├── 1.md
