@@ -1,6 +1,7 @@
 # Tre Diary Web - PHP
 
-[Tre Diary Web](https://github.com/SHxiaoleya/TreDiaryWeb)的适用于受限环境的纯 PHP 版本。可用于虚拟主机等场景。
+[Tre Diary Web](https://github.com/SHxiaoleya/TreDiaryWeb)的适用于受限环境的纯 PHP 版本。可用于虚拟主机，网页托管等场景。
+
 ---
 
 ### 演示站：[点击前往](https://tre-diary.rth1.xyz/)
